@@ -13,4 +13,4 @@ Build out python project scaffold:
 * python library
 * Docker
 * command-line-tool
-*Microservice 
+* Microservice 
