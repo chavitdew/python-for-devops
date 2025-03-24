@@ -1,8 +1,10 @@
 from random import choices
 
+
 def fruit():
     fruits = ["apple", "cherry", "strawberry"]
     return choices(fruits)[0]
+
 
 def meal(beverage):
     my_fruit = fruit()
@@ -12,4 +14,3 @@ def meal(beverage):
         return complete_meal
     alternate_meal = f"Your meal is a steak and {beverage}"
     return alternate_meal
-
