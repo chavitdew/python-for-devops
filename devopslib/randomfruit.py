@@ -2,8 +2,8 @@ from random import choices
 
 
 def fruit():
-    fruits = ["apple", "cherry", "strawberry"]
-    return choices(fruits)[0]
+	fruits = ["apple", "cherry", "strawberry"]
+	return choices(fruits)[0]
 def meal(beverage):
         my_fruit = fruit()
         print(f"Your fruit is {my_fruit} and your beverage is {beverage}")
