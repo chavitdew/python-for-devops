@@ -18,3 +18,5 @@ Build out python project scaffold:
 1. Create a virtualenv: `virtualenv ~/.venv`
 2. Edit `~/.bashrc` `source ~/.venv/bin/activate`
 3. Clone project then run make all
+## Command-Lines Tools and Step Functions
+![image](https://github.com/user-attachments/assets/2c7630f9-e554-46f4-94fa-34f7573d988f)
