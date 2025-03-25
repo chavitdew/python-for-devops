@@ -20,3 +20,6 @@ Build out python project scaffold:
 3. Clone project then run make all
 ## Command-Lines Tools and Step Functions
 ![image](https://github.com/user-attachments/assets/2c7630f9-e554-46f4-94fa-34f7573d988f)
+
+## Containerized Continuous Delivery
+`docker run -p 127.0.0.1:8080:8080 802aac177218`
