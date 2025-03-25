@@ -1,4 +1,6 @@
 [![Test Multiple Python Versions](https://github.com/chavitdew/python-for-devops-mar2025/actions/workflows/main.yml/badge.svg)](https://github.com/chavitdew/python-for-devops-mar2025/actions/workflows/main.yml)
+[![AWS Code Build](https://codebuild.ap-southeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoia2JRdVlLY2tueVN0VVhoWjJYNVdMeWxYWEtyb0dkY0U2NFBKMzl6MGVDNXpROVZaNXRXVnd0MUl0Q0kraERReHhucyt5RDc5S0lyakkvc0hjcytPUU5NPSIsIml2UGFyYW1ldGVyU3BlYyI6IkhGSHlXZmhqWDJObEtOTEIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+
 # python-for-devops
 From Zero Repository for doing  Python DevOps work
 
