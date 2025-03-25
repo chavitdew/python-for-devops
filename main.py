@@ -35,6 +35,10 @@ async def phrase(name: str):
     result = wikiphrases(name)
     return {"result": result}
 
+@app.get("/health")
+async def health_check():
+    """Check if the API is running properly."""
+    return {"status": "OK"}
 
 if __name__ == "__main__":
     uvicorn.run(app, port=8080, host="0.0.0.0")
